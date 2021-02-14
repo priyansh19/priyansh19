@@ -1,3 +1,7 @@
-# PriyanshGupta
+# Hi there, I'm Priyansh Gupta!
 
-![](https://github-readme-stats.vercel.app/api?username=priyansh19&show_icons=true&line_height=30)
+I love 💻 programming, :octocat: open source, 🎧 music, 🎨 art, 🤔 learning and 🗣️ sharing knowledge.
+
+You can checkout my portfolio and my work here: <a href = "https://priyanshgupta.live"> priyanshgupta.live </a>
+
+Let's Connect : <a href = "https://www.linkedin.com/priyansh1907"> Linkedin </a>
