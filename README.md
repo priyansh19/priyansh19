@@ -4,4 +4,4 @@ I love 💻 programming, :octocat: open source, 🎧 music, 🎨 art, 🤔 learn
 
 You can checkout my portfolio and my work here: <a href = "https://priyanshgupta.live"> priyanshgupta.live </a>
 
-Let's Connect : <a href = "https://www.linkedin.com/priyansh1907"> Linkedin </a>
+Let's Connect : <a href = "https://www.linkedin.com/in/priyansh1907"> Linkedin </a>
