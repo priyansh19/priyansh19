@@ -4,6 +4,6 @@
 [🤖] Autonomous Systems Builder  
 [🧠] RAG | LLM | Multi-Agent  
 [☁️] Azure • AWS • K8s  
-[🔐] Secure AI Architect  
+[🔐] Secure and Scalable AI Architect  
 
->>> Building digital workforces, not just models
+Building digital workforces, not just models
