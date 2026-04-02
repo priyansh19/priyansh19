@@ -1,7 +1,12 @@
-# Hi there, I'm Priyansh Gupta!
+# Hi 👋 I'm Priyansh Gupta  
 
-I love 💻 programming, :octocat: open source, 🎧 music, 🎨 art, 🤔 learning and 🗣️ sharing knowledge.
-
-You can checkout my portfolio and my work here: <a href = "https://priyanshgupta.live"> priyanshgupta.live </a>
-
-Let's Connect : <a href = "https://www.linkedin.com/in/priyansh1907"> Linkedin </a>
+🚀 Agentic AI & MLOps Engineer with 5+ years of experience  
+🤖 Building autonomous AI agents and multi-step reasoning systems  
+🧠 Specialized in RAG pipelines, LLM workflows & vector databases  
+☁️ Working across Azure, AWS, and cloud-native architectures  
+⚙️ Strong background in DevOps, Kubernetes & infrastructure automation  
+🔐 Passionate about secure, auditable, production-grade AI systems  
+📡 Love integrating real-world data into intelligent AI solutions  
+🛠️ Turning complex problems into scalable AI products  
+🎯 Always exploring the next wave of AI + automation  
+🗣️ Sharing knowledge and learning something new every day  
