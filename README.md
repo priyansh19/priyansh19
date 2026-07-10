@@ -1,9 +1,4 @@
-# > Priyansh Gupta
-
-[⚙️] Agentic AI Engineer  
-[🤖] Autonomous Systems Builder  
-[🧠] RAG | LLM | Multi-Agent  
-[☁️] Azure • AWS • K8s  
-[🔐] Secure and Scalable AI Architect  
-
-Building digital workforces, not just models
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansh19/priyansh19/master/dark_mode.svg">
+    <img alt="Priyansh Gupta's GitHub profile README" src="https://raw.githubusercontent.com/priyansh19/priyansh19/master/light_mode.svg">
+</picture>
